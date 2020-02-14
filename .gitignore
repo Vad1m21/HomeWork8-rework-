@@ -1,0 +1,7 @@
+.idea
+*.iws
+*.igitml
+*.ipr
+*target
+.DS_STORE
+/src/main/resources/log
